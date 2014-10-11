@@ -1,7 +1,7 @@
 =meta: 0.0.2
 
 name: YAML-Diff
-version: 0.0.1
+version: 0.0.2
 abstract: Diff 2 YAML Files
 homepage: https://metacpan.org/release/YAML-Diff
 language: perl
@@ -23,3 +23,4 @@ devel:
 
 requires:
   perl: 5.8.1
+  Mo: 0
